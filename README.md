@@ -8,5 +8,6 @@ This system is found to be effective in the prevention of coronavirus spread.
 
 This model is built using TensorFlow with Keras library, OpenCV and MobileNetV2.
 
+The goal of the project:
 
-![alt text](https://user-images.githubusercontent.com/48560744/101244682-22eaa080-3708-11eb-898f-de6385d422cc.png)
+![alt text](https://user-images.githubusercontent.com/48560744/101245124-f2583600-370a-11eb-8169-b8c6826811b1.jpg)
