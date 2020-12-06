@@ -1,6 +1,6 @@
 ## Mask detection using TensorFlow with Keras, OpenCV and MobileNET
 
-### For test purposes, we have built this on google Colab, before deploying it to our machines.
+### For test purposes, we have built this on google Colab Notebook, before deploying it to our machines.
 
 Building a Mask detection system for a company.
 This system is connected to a screen in the company entry, so it's can detect if the people entering the building are wearing masks or not.
